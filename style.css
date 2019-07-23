@@ -1,0 +1,38 @@
+body {
+  font-family: "Times New Roman", "Blue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #95F9E3;
+}
+h2 {
+  color: #69EBD0;
+}
+h3 {
+  color: #49D49D;
+}
+h4 {
+  color: #558564;
+}
+h5 {
+   color: #47A8BD; 
+}
+div {
+    margin-left: 50px;
+}
+div {
+    margin-right: 50px;
+}
+div {
+    margin-top: 50px;
+}
+div {
+    margin-bottom: : 50px;
+}
+body {
+     background-color: #564946   
+}
+    
+}
